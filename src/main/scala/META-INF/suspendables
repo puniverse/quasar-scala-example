@@ -1,0 +1,8 @@
+scala.collection.immutable.Range.foreach$mVc$sp
+Hello$$anon$1$$anonfun$run$1.apply$mcVI$sp
+Hello$$anon$1$$anonfun$run$1.apply(Ljava/lang/Object;)Ljava/lang/Object;
+Hello$.main([Ljava/lang/String;)V
+Hello.main([Ljava/lang/String;)V
+Hello$$anon$1$$anonfun$run$1.apply(I)V
+Hello$$anon$1.run()V
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="SBT" type="SBT_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="scala" name="Scala">
+      <configuration>
+        <option name="compilerLibraryLevel" value="Project" />
+        <option name="compilerLibraryName" value="SBT: SBT: scala-compiler:2.10.2" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/scala-2.10/classes" />
+    <output-test url="file://$MODULE_DIR$/target/scala-2.10/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/scala-2.10/src_managed/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/scala-2.10/src_managed/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/target/scala-2.10/resource_managed/main" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/target/scala-2.10/resource_managed/test" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="SBT: SBT: org.scala-lang:scala-library:2.10.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: SBT: scala-compiler:2.10.2" level="project" />
+    <orderEntry type="library" name="SBT: SBT: de.javakaffee:kryo-serializers:0.26" level="project" />
+    <orderEntry type="library" name="SBT: SBT: com.codahale.metrics:metrics-core:3.0.2" level="project" />
+    <orderEntry type="library" name="SBT: SBT: com.lmax:disruptor:3.2.1" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.objenesis:objenesis:2.1" level="project" />
+    <orderEntry type="library" name="SBT: SBT: com.esotericsoftware.minlog:minlog:1.2" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.apache.ant:ant-launcher:1.9.4" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.ow2.asm:asm-analysis:5.0.3" level="project" />
+    <orderEntry type="library" name="SBT: SBT: co.paralleluniverse:quasar-core:0.6.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.apache.ant:ant:1.9.4" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.ow2.asm:asm:5.0.3" level="project" />
+    <orderEntry type="library" name="SBT: SBT: com.google.guava:guava:17.0" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.ow2.asm:asm-tree:5.0.3" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.slf4j:slf4j-api:1.7.5" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.ow2.asm:asm-commons:5.0.3" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.ow2.asm:asm-util:5.0.3" level="project" />
+    <orderEntry type="library" name="SBT: SBT: com.esotericsoftware.kryo:kryo:2.24.0" level="project" />
+  </component>
+</module>
+
